@@ -24,4 +24,7 @@ O objetivo é auxiliar na coleta e tratamento dos dados para o Excel.
 - [BeautifulSoup](https://pypi.org/project/beautifulsoup4/)
 - [Pandas](https://pypi.org/project/pandas/)
 
+### 📄 estudos
+- Esta pasta contém códigos que foram valiosos para o meu estudo, enquanto eu trabalhava em direção ao desenvolvimento ideal do projeto.
+
 
