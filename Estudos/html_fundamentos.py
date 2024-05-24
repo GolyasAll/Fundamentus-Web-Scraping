@@ -30,5 +30,4 @@ if table:
 
     name_colums = [colum.text.strip()
                    for colum in soup.find('tr').find_all(['th'])]
-
-print(name_colums)
+    print(name_colums)
